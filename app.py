@@ -12,6 +12,8 @@ def install_model():
 
 # Call the function to ensure the model is installed
 install_model()
+
+
 import spacy
 import random
 
